@@ -32,7 +32,8 @@ Para ativar o ambiente virtual execute:
 - On Windows
 
 ``` sh
-.\.venv\Scripts\activate.bat ou ps1
+.\.venv\Scripts\activate.bat ou
+.\.venv\Scripts\activate.ps1
 ```
 
 - On Mac or Linux:
